@@ -14,7 +14,7 @@
 #  https://github.com/carpentries/workshop-template
 # and for instructor training events you should use:
 #  https://github.com/carpentries/training-template
-carpentry: "ea"
+carpentry: "cr"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -76,6 +76,7 @@ swc_github: "https://github.com/swcarpentry"
 swc_pages: "https://swcarpentry.github.io"
 swc_site: "https://software-carpentry.org"
 academy_site: "https://escience-academy.github.io/"
+cr_site: "https://coderefinery.org/"
 template_repo: "https://github.com/carpentries/styles"
 training_site: "https://carpentries.github.io/instructor-training"
 workshop_repo: "https://github.com/carpentries/workshop-template"
